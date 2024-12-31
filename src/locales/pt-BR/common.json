@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "menu": "Cardápio",
+    "about": "Sobre",
+    "contact": "Contato",
+    "reserve": "Reservar Mesa"
+  },
+  "hero": {
+    "title": "Autêntica Cozinha Italiana",
+    "subtitle": "Uma experiência gastronômica única que combina tradição, sabor e paixão em cada prato.",
+    "cta": {
+      "reserve": "Reserve sua Mesa",
+      "menu": "Ver Cardápio"
+    }
+  },
+  "about": {
+    "title": "Nossa História",
+    "description": "Desde 2010, o Cuore & Cucina tem sido um pedaço da Itália em Vila Velha, trazendo receitas tradicionais e amor pela gastronomia italiana.",
+    "sections": {
+      "tradition": {
+        "title": "Tradição Familiar",
+        "description": "Nossas receitas são passadas de geração em geração, mantendo viva a autêntica tradição da culinária italiana."
+      },
+      "ingredients": {
+        "title": "Ingredientes Selecionados",
+        "description": "Utilizamos apenas ingredientes de alta qualidade, importados diretamente da Itália ou selecionados de produtores locais."
+      },
+      "ambience": {
+        "title": "Ambiente Acolhedor",
+        "description": "Nosso espaço foi projetado para proporcionar uma experiência aconchegante e autêntica, como os restaurantes familiares italianos."
+      },
+      "team": {
+        "title": "Equipe Apaixonada",
+        "description": "Nossa equipe é formada por profissionais apaixonados pela gastronomia italiana e dedicados a oferecer o melhor serviço."
+      }
+    }
+  },
+  "menu": {
+    "title": "Nosso Cardápio",
+    "categories": {
+      "all": "Todos",
+      "antipasti": "Antipasti",
+      "pasta": "Massas",
+      "pizza": "Pizzas",
+      "secondi": "Carnes",
+      "dolci": "Sobremesas"
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "address": {
+      "title": "Endereço",
+      "street": "Rua Sebastião Silveira, 64",
+      "neighborhood": "Praia das Gaivotas",
+      "city": "Vila Velha - ES, 29102-571",
+      "country": "Brasil"
+    },
+    "phone": {
+      "title": "Telefone"
+    },
+    "hours": {
+      "title": "Horário de Funcionamento",
+      "weekdays": "Segunda a Quinta",
+      "weekends": "Sexta e Sábado",
+      "sunday": "Domingo"
+    },
+    "cta": "Fazer Reserva"
+  },
+  "footer": {
+    "description": "Trazendo a autêntica culinária italiana para Vila Velha desde 2010.",
+    "quickLinks": "Links Rápidos",
+    "hours": "Horário",
+    "copyright": "© {{year}} Cuore & Cucina. Todos os direitos reservados."
+  }
+} 

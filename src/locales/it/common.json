@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "menu": "Menu",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "reserve": "Prenota un Tavolo"
+  },
+  "hero": {
+    "title": "Autentica Cucina Italiana",
+    "subtitle": "Un'esperienza gastronomica unica che unisce tradizione, sapore e passione in ogni piatto.",
+    "cta": {
+      "reserve": "Prenota il Tuo Tavolo",
+      "menu": "Vedi il Menu"
+    }
+  },
+  "about": {
+    "title": "La Nostra Storia",
+    "description": "Dal 2010, Cuore & Cucina è un pezzo d'Italia a Vila Velha, portando ricette tradizionali e amore per la gastronomia italiana.",
+    "sections": {
+      "tradition": {
+        "title": "Tradizione Familiare",
+        "description": "Le nostre ricette sono tramandate di generazione in generazione, mantenendo viva l'autentica tradizione della cucina italiana."
+      },
+      "ingredients": {
+        "title": "Ingredienti Selezionati",
+        "description": "Utilizziamo solo ingredienti di alta qualità, importati direttamente dall'Italia o selezionati da produttori locali."
+      },
+      "ambience": {
+        "title": "Atmosfera Accogliente",
+        "description": "Il nostro spazio è stato progettato per offrire un'esperienza accogliente e autentica, proprio come i ristoranti familiari italiani."
+      },
+      "team": {
+        "title": "Team Appassionato",
+        "description": "Il nostro team è composto da professionisti appassionati di gastronomia italiana e dedicati a offrire il miglior servizio."
+      }
+    }
+  },
+  "menu": {
+    "title": "Il Nostro Menu",
+    "categories": {
+      "all": "Tutti",
+      "antipasti": "Antipasti",
+      "pasta": "Primi Piatti",
+      "pizza": "Pizza",
+      "secondi": "Secondi Piatti",
+      "dolci": "Dolci"
+    }
+  },
+  "contact": {
+    "title": "Contatti",
+    "address": {
+      "title": "Indirizzo",
+      "street": "Rua Sebastião Silveira, 64",
+      "neighborhood": "Praia das Gaivotas",
+      "city": "Vila Velha - ES, 29102-571",
+      "country": "Brasile"
+    },
+    "phone": {
+      "title": "Telefono"
+    },
+    "hours": {
+      "title": "Orari di Apertura",
+      "weekdays": "Lunedì a Giovedì",
+      "weekends": "Venerdì e Sabato",
+      "sunday": "Domenica"
+    },
+    "cta": "Prenota Ora"
+  },
+  "footer": {
+    "description": "Portiamo l'autentica cucina italiana a Vila Velha dal 2010.",
+    "quickLinks": "Link Rapidi",
+    "hours": "Orari",
+    "copyright": "© {{year}} Cuore & Cucina. Tutti i diritti riservati."
+  }
+} 
