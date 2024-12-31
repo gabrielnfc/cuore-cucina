@@ -6,7 +6,7 @@ import { useLanguage } from '@/contexts/LanguageContext'
 
 const languageInfo = {
   'pt-BR': { name: 'Português', flag: '🇧🇷' },
-  'en': { name: 'English', flag: '🇬🇧' },
+  'en': { name: 'English', flag: '🇺🇸' },
   'it': { name: 'Italiano', flag: '🇮🇹' }
 }
 
