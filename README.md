@@ -93,7 +93,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- Seu Nome - [GitHub](https://github.com/seu-usuario)
+- Gabriel Nascimento - [GitHub](https://github.com/gabrielnfc)
 
 ## 🙏 Agradecimentos
 
